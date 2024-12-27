@@ -30,8 +30,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn keras xgboost wordcloud
 # Usage
 To run this project, execute the Jupyter Notebook cells in sequence. The notebook includes comments and markdown explanations to guide you through the process.
 
-# Contributing
-Feel free to fork this project, make improvements, and submit a pull request. We're open to any contributions that improve the project.
-
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
